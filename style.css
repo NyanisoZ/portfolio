@@ -513,7 +513,7 @@ section{
 }
 
 .bar .progress-line.react span{
-    width: 12%;
+    width: 6%;
     background-color:greenyellow;
 }
 
